@@ -2,6 +2,10 @@
 
 Patterncloner is an object plugin for distributing instances in a grid array while following a preset pattern which instance source should be repeated and in which direction.
 
+Get it on Artstation: https://www.artstation.com/a/1792556
+
+Or get it on Gumroad: https://gumroad.com/l/c4d-patterncloner
+
 ![Preview](Preview.gif)
 
 ## Table of Contents
