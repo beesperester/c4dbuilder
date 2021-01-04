@@ -18,6 +18,8 @@ Patterncloner is an object plugin for distributing instances in a grid array whi
 
 Patterncloner uses a text representation of a table to describe which element from the child objects of the source Null should be instanced along a grid plane. The number of rows and columns of the grid is derived from the step size and the size. The elements are chosen from the name declared in the pattern and based on the regular expression declared under the **Settings** tab.
 
+The plugin has been build and tested with Cinema 4D R23.008
+
 ### Example
 
 Considering the following source Null object setup:
