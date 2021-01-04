@@ -12,13 +12,13 @@ Patterncloner is an object plugin for distributing instances in a grid array whi
 
 ## Table of Contents
 
-1. [Description](Description)
-    1. [Example](Example)
-1. [Attributes](Attributes)
-    1. [Settings](Settings-Tab)
-    1. [Pattern](Pattern-Tab)
-    1. [Overrides](Overrides-Tab)
-2. [Patterns](Patterns)
+1. [Description](#Description)
+    1. [Example](#Example)
+1. [Attributes](#Attributes)
+    1. [Settings](#Settings-Tab)
+    1. [Pattern](#Pattern-Tab)
+    1. [Overrides](#Overrides-Tab)
+2. [Patterns](#Patterns)
 
 ## Description
 
