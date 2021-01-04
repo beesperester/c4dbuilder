@@ -2,13 +2,7 @@
 
 Patterncloner is an object plugin for distributing instances in a grid array while following a preset pattern which instance source should be repeated and in which direction.
 
-***Preview***
-
 ![Preview](Preview.gif)
-
-***Attributes***
-
-![Attributes](Attributes.png)
 
 ## Table of Contents
 
@@ -48,6 +42,8 @@ WallBottom
 This would repeat the element **Interior_WallBottom_Grp** along the plane axis. If more then one element matches the criteria the element will be randomly selected from those.
 
 ## Attributes
+
+![Attributes](Attributes.png)
 
 ### Settings Tab
 
