@@ -24,7 +24,7 @@ The plugin has been build and tested with Cinema 4D R23.008
 
 Considering the following source Null object setup:
 
-* Sourges_Grp
+* Sources_Grp
   * Interior_WallBottom_Grp
   * Interior_WallMiddle_Grp
   * Interior_WallTop_Grp
@@ -32,7 +32,7 @@ Considering the following source Null object setup:
 An **Identifier Pattern** like:
 
 ```
-_([a-zA-Z]+)_
+_([a-zA-Z]+)_ # this will match objects with a name like SomeText_ThePatternClonerName_Grp
 ```
 
 And a pattern like:
